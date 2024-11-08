@@ -165,7 +165,7 @@ h2 {
 /* Картинки */
 
 .img1 {
-  width: 100%;
+  width: 20%;
   border: 3px solid rgb(255, 255, 255);
   box-sizing: border-box;
   padding: 6px 3px;
@@ -175,7 +175,7 @@ h2 {
   margin: 0auto;
 }
 .img2 {
-  width: 100%;
+  width: 20%;
   border: 3px solid rgb(255, 255, 255);
   box-sizing: border-box;
   padding: 6px 3px;
@@ -185,7 +185,7 @@ h2 {
   margin: 0auto;
 }
 .img3 {
-  width: 100%;
+  width: 20%;
   border: 3px solid rgb(255, 255, 255);
   box-sizing: border-box;
   padding: 6px 3px;
